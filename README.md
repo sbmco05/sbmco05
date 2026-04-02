@@ -24,6 +24,4 @@ I'm a software engineer student at the University of Minho, Braga, Portugal.<br>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sbmco05/sbmco05/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
