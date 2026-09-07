@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer student at the University of Minho, Braga, Portugal.<br>
+Recent graduate in Computer Engineering from the University of Minho, with a complementary foundational background in Management from ISCTE. Throughout my academic career, I have developed knowledge across various IT domains alongside strong interpersonal skills, including problem-solving, analytical thinking, and teamwork. I consider myself a self-taught individual with a fast learning curve, strong initiative, and high motivation to tackle new challenges.<br>
 
 
 ## 🌐 Socials:
