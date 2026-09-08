@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent graduate in Computer Engineering from the University of Minho, with a complementary foundational background in Management from ISCTE. Throughout my academic career, I have developed knowledge across various IT domains alongside strong interpersonal skills, including problem-solving, analytical thinking, and teamwork. I consider myself a self-taught individual with a fast learning curve, strong initiative, and high motivation to tackle new challenges.<br>
+Recent Computer Engineering graduate from the University of Minho, with familiarity with management principles acquired at ISCTE. Throughout my academic journey, I developed knowledge in various IT fields alongside soft skills such as problem-solving, analytical thinking and teamwork. I consider myself a self-motivated, fast learner with a strong sense of initiative and a drive to take on new challenges. <br>
 
 
 ## 🌐 Socials:
